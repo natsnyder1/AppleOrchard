@@ -1,0 +1,12 @@
+﻿  Main.cpp
+c:\users\natsn\desktop\research\imageanalysislab\drone code\christmastrees\main.cpp(136): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\natsn\desktop\research\imageanalysislab\drone code\christmastrees\main.cpp(138): warning C4244: '=': conversion from 'unsigned __int64' to 'double', possible loss of data
+c:\users\natsn\desktop\research\imageanalysislab\drone code\christmastrees\main.cpp(164): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\natsn\desktop\research\imageanalysislab\drone code\christmastrees\main.cpp(169): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\natsn\desktop\research\imageanalysislab\drone code\christmastrees\main.cpp(228): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\natsn\desktop\research\imageanalysislab\drone code\christmastrees\main.cpp(419): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\natsn\desktop\research\imageanalysislab\drone code\christmastrees\main.cpp(451): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\natsn\desktop\research\imageanalysislab\drone code\christmastrees\main.cpp(748): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\natsn\desktop\research\imageanalysislab\drone code\christmastrees\main.cpp(971): warning C4553: '==': operator has no effect; did you intend '='?
+  ChristmasTrees.vcxproj -> C:\Users\natsn\Desktop\Research\ImageAnalysisLab\Drone Code\ChristmasTrees\x64\Debug\ChristmasTrees.exe
+  ChristmasTrees.vcxproj -> C:\Users\natsn\Desktop\Research\ImageAnalysisLab\Drone Code\ChristmasTrees\x64\Debug\ChristmasTrees.pdb (Partial PDB)

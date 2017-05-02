@@ -1,0 +1,68 @@
+﻿Build started 24/01/17 1:01:00 pm.
+     1>Project "Z:\Desktop\Honors_Thesis\ImageAnalysisLab\Drone Code\DroneCode\DroneCode.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"\\Mac\Home\Desktop\Honors_Thesis\OpenCV-3.1.0\opencv\build\x64\vc12\lib" /Zi /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Main.cpp
+         Main.cpp
+     1>Main.cpp(101): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Main.cpp(108): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(153): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>Main.cpp(171): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>Main.cpp(180): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+     1>Main.cpp(383): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Main.cpp(390): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(403): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Main.cpp(410): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(413): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(418): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(420): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(426): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(429): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(435): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(437): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(486): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>Main.cpp(504): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>Main.cpp(513): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+     1>Main.cpp(693): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(700): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Main.cpp(853): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Main.cpp(860): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(905): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>Main.cpp(923): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>Main.cpp(932): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+     1>Main.cpp(1190): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>Main.cpp(1208): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>Main.cpp(1217): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+     1>Main.cpp(1226): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Main.cpp(1233): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(1247): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Main.cpp(1254): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(1257): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(1262): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(1264): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(1270): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(1273): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(1279): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(1281): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(1603): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(1736): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Main.cpp(1740): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(1742): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(1777): warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(1781): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(1824): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(1828): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(1864): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+     1>Main.cpp(1865): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+     1>Main.cpp(1866): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+     1>Main.cpp(1867): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+     1>Main.cpp(2021): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(2107): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(2116): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"Z:\Desktop\Honors_Thesis\ImageAnalysisLab\Drone Code\DroneCode\x64\Debug\DroneCode.exe" /INCREMENTAL /NOLOGO /LIBPATH:"\\Mac\Home\Desktop\Honors_Thesis\OpenCV-3.1.0\opencv\build\x64\vc12\lib" opencv_world310d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Z:\Desktop\Honors_Thesis\ImageAnalysisLab\Drone Code\DroneCode\x64\Debug\DroneCode.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Z:\Desktop\Honors_Thesis\ImageAnalysisLab\Drone Code\DroneCode\x64\Debug\DroneCode.lib" /MACHINE:X64 x64\Debug\Main.obj
+         DroneCode.vcxproj -> Z:\Desktop\Honors_Thesis\ImageAnalysisLab\Drone Code\DroneCode\x64\Debug\DroneCode.exe
+     1>Done Building Project "Z:\Desktop\Honors_Thesis\ImageAnalysisLab\Drone Code\DroneCode\DroneCode.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.69
